@@ -1,5 +1,5 @@
 # YijiaZhao_DECO7230_2025
-## week1
+## Week1
 
 **Question 1**
 
