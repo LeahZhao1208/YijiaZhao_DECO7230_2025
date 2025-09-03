@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\u9879\u76EE\\Zoom VR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|e:\\unity\u9879\u76EE\\zoom vr\\assets\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\choosesceneuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\choosesceneuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\questionuimangaer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\questionuimangaer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|e:\\unity\u9879\u76EE\\zoom vr\\assets\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\joinmeetinguimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\joinmeetinguimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\choicebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\choicebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\answeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\answeruimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\choosemeetinguimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\choosemeetinguimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\roundtableuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\roundtableuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\onmousedownquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\onmousedownquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|E:\\Unity\u9879\u76EE\\Zoom VR\\assets\\user2btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016C47EE-B997-7F7D-581A-52BE0538FF8B}|Assembly-CSharp.csproj|solutionrelative:assets\\user2btn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\menu.cs",
+              "RelativeDocumentMoniker": "Assets\\menu.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\menu.cs",
+              "RelativeToolTip": "Assets\\menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvyEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:54:25.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JoinMeetingUIManager.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\JoinMeetingUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\JoinMeetingUIManager.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\JoinMeetingUIManager.cs",
+              "RelativeToolTip": "Assets\\JoinMeetingUIManager.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwC4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T02:52:03.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionUImangaer.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\QuestionUImangaer.cs",
+              "RelativeDocumentMoniker": "Assets\\QuestionUImangaer.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\QuestionUImangaer.cs",
+              "RelativeToolTip": "Assets\\QuestionUImangaer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:40:45.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseSceneUIManager.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\ChooseSceneUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ChooseSceneUIManager.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\ChooseSceneUIManager.cs",
+              "RelativeToolTip": "Assets\\ChooseSceneUIManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:36:25.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "keyboard.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\keyboard.cs",
+              "RelativeDocumentMoniker": "Assets\\keyboard.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\keyboard.cs",
+              "RelativeToolTip": "Assets\\keyboard.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwCsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T02:21:10.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnswerUImanager.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\AnswerUImanager.cs",
+              "RelativeDocumentMoniker": "Assets\\AnswerUImanager.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\AnswerUImanager.cs",
+              "RelativeToolTip": "Assets\\AnswerUImanager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:29:22.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "choicebutton.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\choicebutton.cs",
+              "RelativeDocumentMoniker": "Assets\\choicebutton.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\choicebutton.cs",
+              "RelativeToolTip": "Assets\\choicebutton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T02:23:27.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exit.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\exit.cs",
+              "RelativeDocumentMoniker": "Assets\\exit.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\exit.cs",
+              "RelativeToolTip": "Assets\\exit.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwLQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:31:53.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChooseMeetingUIManager.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\ChooseMeetingUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ChooseMeetingUIManager.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\ChooseMeetingUIManager.cs",
+              "RelativeToolTip": "Assets\\ChooseMeetingUIManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T02:36:29.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rotate.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\rotate.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\rotate.cs",
+              "RelativeToolTip": "Assets\\rotate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswEQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:35:09.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoundtableUIManager.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\RoundtableUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RoundtableUIManager.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\RoundtableUIManager.cs",
+              "RelativeToolTip": "Assets\\RoundtableUIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:44:43.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "onmousedownquestion.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\onmousedownquestion.cs",
+              "RelativeDocumentMoniker": "Assets\\onmousedownquestion.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\onmousedownquestion.cs",
+              "RelativeToolTip": "Assets\\onmousedownquestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:19:47.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "user2btn.cs",
+              "DocumentMoniker": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\user2btn.cs",
+              "RelativeDocumentMoniker": "Assets\\user2btn.cs",
+              "ToolTip": "E:\\Unity\u9879\u76EE\\Zoom VR\\Assets\\user2btn.cs",
+              "RelativeToolTip": "Assets\\user2btn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:22:00.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
