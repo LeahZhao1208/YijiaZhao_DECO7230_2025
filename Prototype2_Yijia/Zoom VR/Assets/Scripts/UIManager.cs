@@ -1,28 +1,37 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
 public class UIManager : MonoBehaviour
 {
-    public TextMeshProUGUI rotationDisplay;
-    public TextMeshProUGUI positionDisplay;
-    public TextMeshProUGUI speedDisplay;
-    public TextMeshProUGUI statusDisplay;
-    public DebugRotator targetRotator;
+    public GameObject startPanel;
+    public GameObject gamePanel;
+    public GameObject settingsPanel;
 
-    void Update()
+    void Start()
     {
-        // Update rotation display
-        rotationDisplay.text = "Rotation: " + targetRotator.currentRotation.ToString("F1");
-        
-        // Update position display
-        positionDisplay.text = "Position: " + targetRotator.objectPosition.ToString("F2");
-        
-        // Update speed display
-        speedDisplay.text = "Speed: " + targetRotator.rotationSpeed.ToString("F1");
-        
-        // Update status display
-        statusDisplay.text = "Status: " + (targetRotator.isRotating ? "Rotating" : "Stopped");
+        // 开始时只显示 StartPanel
+        startPanel.SetActive(true);
+        gamePanel.SetActive(false);
+        settingsPanel.SetActive(false);
+    }
+
+    public void ShowGame()
+    {
+        startPanel.SetActive(false);
+        gamePanel.SetActive(true);
+    }
+
+    public void ShowSettings()
+    {
+        startPanel.SetActive(false);
+        settingsPanel.SetActive(true);
+    }
+
+    public void BackToStart()
+    {
+        startPanel.SetActive(true);
+        gamePanel.SetActive(false);
+        settingsPanel.SetActive(false);
     }
 }
